@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShadiOfflineDataApp</string>
+    <string name="member_declined">Member Declined</string>
+    <string name="member_accepted">Member Accepted</string>
+</resources>
